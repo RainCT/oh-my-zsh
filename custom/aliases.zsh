@@ -53,7 +53,7 @@ alias requestsync="requestsync --lp"
 alias caff="caff -m yes"
 
 # Other
-alias sound-settings="sudo gnome-control-center sound"
+alias sound-settings="gnome-control-center sound"
 
 # Random aliases
 alias ed='vim'
